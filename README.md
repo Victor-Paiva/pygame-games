@@ -1,2 +1,2 @@
 # pygame-games
-Games made using PyGame
+Jogos feitos com a biblioteca PyGame.
